@@ -1,1 +1,1 @@
-# elements-of-machinelearning
+# Elements of Machine Learning
