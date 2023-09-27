@@ -11,10 +11,22 @@ Contact: christian.salvatore@iusspavia.it
 * Model implementation </>
 
 ## Program
-* __Lesson #1__ __(September 7, 2023 \| 13:00-16:00)__ <br>
+* __Lesson #1__ __(September 14, 2023 \| 13:00-16:00)__ <br>
 	* Overview
 	* Machine learning, artificial intelligence and deep learning
-  * Validation and evalulation of machine-learning models (part 1 of 2) 
+ 	* Validation and evalulation of machine-learning models (part 1 of 2)
+ 
+* __Lesson #2__ __(September 21, 2023 \| 13:00-17:00)__ <br>
+	* Validation and evalulation of machine-learning models (part 2 of 2)
+ 	* Overfitting and underfitting 
+ 	* Feature extraction
+  	* Feature Selection
+  	* Support Vector Machine
+ 
+* __Lesson #3__ __(September 28, 2023 \| 13:00-16:00)__ <br>
+	* Ensemble of classifiers (Random Forest)
+ 	* A representative scientific paper
+  	* A coding example of machine-learning model (from training to model evaluation) 
 
 <br>
 
