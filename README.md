@@ -31,9 +31,9 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 
 ## Material
-[__[Slides]__]([https://drive.google.com/drive/folders/1QjjutCJ5DEm9KVGApWlUuYPbIpBl-HPE?usp=sharing](https://github.com/christiansalvatore/elements-of-machinelearning/tree/main/slides))
-[__[Code]__]()
-[__[Dataset]__]()
+[__[Slides]__](https://github.com/christiansalvatore/elements-of-machinelearning/tree/main/slides)
+[__[Code]__](https://drive.google.com/drive/folders/1n_gFTtQ3mtk3M0wRturKxflEzL9g7zJT?usp=sharing)
+[__[Dataset]__](https://drive.google.com/drive/folders/1kngsU25SF0BHgpGudyqOGL1pxYYWrKFR?usp=sharing)
 [__[Literature]__](https://github.com/christiansalvatore/elements-of-machinelearning/tree/main/scientific-papers)
 <br>
 
